@@ -1,0 +1,5 @@
+{
+  "name": "SignalAI",
+  "description": "An intelligent traffic signal control system powered by Gemini. It analyzes real-time traffic from images to dynamically optimize signal timing, reduce congestion, and improve pedestrian safety.",
+  "requestFramePermissions": []
+}
